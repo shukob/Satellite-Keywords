@@ -1,0 +1,77 @@
+[
+  {
+    "name": "看護師",
+    "keyword": "看護師",
+    "location": ""
+  },
+  {
+    "name": "介護士",
+    "keyword": "介護士",
+    "location": ""
+  },
+  {
+    "name": "薬剤師",
+    "keyword": "薬剤師",
+    "location": ""
+  },
+  {
+    "name": "医療事務",
+    "keyword": "医療事務",
+    "location": ""
+  },
+  {
+    "name": "医師",
+    "keyword": "医師",
+    "location": ""
+  },
+  {
+    "name": "MR",
+    "keyword": "MR",
+    "location": ""
+  },
+  {
+    "name": "ヘルパー",
+    "keyword": "ヘルパー",
+    "location": ""
+  },
+  {
+    "name": "訪問介護",
+    "keyword": "訪問介護",
+    "location": ""
+  },
+  {
+    "name": "保健師",
+    "keyword": "保健師",
+    "location": ""
+  },
+  {
+    "name": "助産師",
+    "keyword": "助産師",
+    "location": ""
+  },
+  {
+    "name": "クリニック",
+    "keyword": "クリニック",
+    "location": ""
+  },
+  {
+    "name": "ブランク歓迎",
+    "keyword": "ブランク歓迎",
+    "location": ""
+  },
+  {
+    "name": "寮完備",
+    "keyword": "寮完備",
+    "location": ""
+  },
+  {
+    "name": "介護施設",
+    "keyword": "介護施設",
+    "location": ""
+  },
+  {
+    "name": "未経験OK",
+    "keyword": "未経験OK",
+    "location": ""
+  }
+]
