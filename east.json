@@ -1,0 +1,42 @@
+[
+  {
+    "name": "未経験OK",
+    "keyword": "未経験OK",
+    "location": ""
+  },
+  {
+    "name": "土日休み",
+    "keyword": "土日休み",
+    "location": ""
+  },
+  {
+    "name": "残業なし",
+    "keyword": "残業なし",
+    "location": ""
+  },
+  {
+    "name": "渋谷カフェ",
+    "keyword": "カフェ",
+    "location": "渋谷区"
+  },
+  {
+    "name": "みなとみらい",
+    "keyword": "みなとみらい",
+    "location": "横浜市"
+  },
+  {
+    "name": "原宿アパレル",
+    "keyword": "アパレル",
+    "location": "原宿"
+  },
+  {
+    "name": "東京都",
+    "keyword": "",
+    "location": "東京都"
+  },
+  {
+    "name": "横浜市",
+    "keyword": "",
+    "location": "横浜市"
+  }
+]
