@@ -1,0 +1,52 @@
+[
+  {
+    "name": "未経験OK",
+    "keyword": "未経験OK",
+    "location": ""
+  },
+  {
+    "name": "土日休み",
+    "keyword": "土日休み",
+    "location": ""
+  },
+  {
+    "name": "残業なし",
+    "keyword": "残業なし",
+    "location": ""
+  },
+  {
+    "name": "津市",
+    "keyword": "",
+    "location": "津市"
+  },
+  {
+    "name": "大津市",
+    "keyword": "",
+    "location": "大津市"
+  },
+  {
+    "name": "京都市",
+    "keyword": "",
+    "location": "京都市"
+  },
+  {
+    "name": "大阪市",
+    "keyword": "",
+    "location": "大阪市"
+  },
+  {
+    "name": "神戸市",
+    "keyword": "",
+    "location": "神戸市"
+  },
+  {
+    "name": "奈良市",
+    "keyword": "",
+    "location": "奈良市"
+  },
+  {
+    "name": "和歌山市",
+    "keyword": "",
+    "location": "和歌山市"
+  }
+]
