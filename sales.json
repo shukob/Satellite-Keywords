@@ -1,0 +1,62 @@
+[
+  {
+    "name": "法人営業",
+    "keyword": "法人営業",
+    "location": ""
+  },
+  {
+    "name": "個人営業",
+    "keyword": "個人営業",
+    "location": ""
+  },
+  {
+    "name": "ルート営業",
+    "keyword": "ルート営業",
+    "location": ""
+  },
+  {
+    "name": "代理店営業",
+    "keyword": "代理店営業",
+    "location": ""
+  },
+  {
+    "name": "内勤営業",
+    "keyword": "内勤営業",
+    "location": ""
+  },
+  {
+    "name": "システム営業",
+    "keyword": "システム営業",
+    "location": ""
+  },
+  {
+    "name": "海外営業",
+    "keyword": "海外営業",
+    "location": ""
+  },
+  {
+    "name": "メディカル営業",
+    "keyword": "メディカル営業",
+    "location": ""
+  },
+  {
+    "name": "土日休み",
+    "keyword": "土日休み 営業",
+    "location": ""
+  },
+  {
+    "name": "残業なし",
+    "keyword": "残業なし 営業",
+    "location": ""
+  },
+  {
+    "name": "高収入",
+    "keyword": "高収入 営業",
+    "location": ""
+  },
+  {
+    "name": "未経験OK",
+    "keyword": "未経験OK 営業",
+    "location": ""
+  }
+]
