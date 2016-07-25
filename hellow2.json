@@ -1,62 +1,66 @@
 [
   {
     "name": "未経験OK",
-    "keyword": "未経験OK",
-    "location": ""
+    "keyword": "未経験OK"
   },
   {
     "name": "土日休み",
-    "keyword": "土日休み",
-    "location": ""
+    "keyword": "土日休み"
   },
   {
     "name": "残業なし",
-    "keyword": "残業なし",
-    "location": ""
+    "keyword": "残業なし"
   },
   {
     "name": "高収入",
-    "keyword": "高収入",
-    "location": ""
+    "keyword": "高収入"
   },
   {
     "name": "高時給",
-    "keyword": "高時給",
-    "location": ""
+    "keyword": "高時給"
   },
   {
     "name": "寮完備",
-    "keyword": "寮完備",
-    "location": ""
+    "keyword": "寮完備"
   },
   {
     "name": "資格取得支援",
-    "keyword": "資格取得支援",
-    "location": ""
-  },
-  {
-    "name": "正社員",
-    "keyword": "正社員",
-    "location": ""
+    "keyword": "資格取得支援"
   },
   {
     "name": "正社員登用あり",
-    "keyword": "正社員登用あり",
-    "location": ""
+    "keyword": "正社員登用あり"
   },
   {
-    "name": "短期のお仕事",
-    "keyword": "短期",
-    "location": ""
+    "name": "短期",
+    "keyword": "短期"
   },
   {
-    "name": "単発のお仕事",
-    "keyword": "単発",
-    "location": ""
+    "name": "単発",
+    "keyword": "単発"
+  },
+  {
+    "name": "一般事務",
+    "keyword": "一般事務"
+  },
+  {
+    "name": "OA事務",
+    "keyword": "OA事務"
+  },
+  {
+    "name": "営業",
+    "keyword": "営業"
+  },
+  {
+    "name": "シニア",
+    "keyword": "シニア"
   },
   {
     "name": "急募",
-    "keyword": "急募",
-    "location": ""
+    "keyword": "急募"
+  },
+  {
+    "name": "OAスキル不要",
+    "keyword": "OAスキル不要"
   }
 ]
