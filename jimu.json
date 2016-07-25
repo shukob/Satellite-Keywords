@@ -1,82 +1,86 @@
 [
   {
+    "name": "OA事務",
+    "keyword": "OA事務"
+  },  
+  {
     "name": "一般事務",
-    "keyword": "一般事務",
-    "location": ""
+    "keyword": "一般事務"
   },
   {
     "name": "受付事務",
-    "keyword": "受付事務",
-    "location": ""
+    "keyword": "受付事務"
   },
   {
     "name": "営業事務",
-    "keyword": "営業事務",
-    "location": ""
+    "keyword": "営業事務"
   },
   {
     "name": "秘書",
-    "keyword": "秘書",
-    "location": ""
-  },
-  {
-    "name": "医療事務",
-    "keyword": "医療事務",
-    "location": ""
-  },
-  {
-    "name": "国際事務",
-    "keyword": "国際事務",
-    "location": ""
-  },
-  {
-    "name": "管理事務",
-    "keyword": "管理事務",
-    "location": ""
+    "keyword": "秘書"
   },
   {
     "name": "総務",
-    "keyword": "総務",
-    "location": ""
+    "keyword": "総務"
+  },
+  {
+    "name": "医療事務",
+    "keyword": "医療事務"
+  },
+  {
+    "name": "国際事務",
+    "keyword": "国際事務"
+  },
+  {
+    "name": "管理事務",
+    "keyword": "管理事務"
   },
   {
     "name": "法務",
-    "keyword": "法務",
-    "location": ""
+    "keyword": "法務"
   },
   {
     "name": "経理",
-    "keyword": "経理",
-    "location": ""
+    "keyword": "経理"
   },
   {
     "name": "会計",
-    "keyword": "会計",
-    "location": ""
+    "keyword": "会計"
   },
   {
     "name": "人事",
-    "keyword": "人事",
-    "location": ""
+    "keyword": "人事"
   },
   {
     "name": "広報",
-    "keyword": "広報",
-    "location": ""
+    "keyword": "広報"
   },
   {
     "name": "土日休み",
-    "keyword": "土日休み 事務",
-    "location": ""
+    "keyword": "土日休み 事務"
   },
   {
     "name": "残業なし",
-    "keyword": "残業なし 事務",
-    "location": ""
+    "keyword": "残業なし 事務"
+  },
+  {
+    "name": "高時給",
+    "keyword": "高時給 事務"
+  },
+  {
+    "name": "高収入",
+    "keyword": "高収入 事務"
+  },
+  {
+    "name": "短期",
+    "keyword": "短期 事務"
+  },
+  {
+    "name": "単発",
+    "keyword": "単発 事務"
   },
   {
     "name": "未経験OK",
-    "keyword": "未経験OK 事務",
-    "location": ""
+    "keyword": "未経験OK 事務"
   }
 ]
