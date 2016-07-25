@@ -8,12 +8,12 @@
     "keyword": "病院"
   },
   {
-    "name": "クリニック",
-    "keyword": "クリニック"
+    "name": "短期",
+    "keyword": "短期"
   },
   {
-    "name": "ドラックストア",
-    "keyword": "ドラックストア"
+    "name": "クリニック",
+    "keyword": "クリニック"
   },
   {
     "name": "OTC",
@@ -24,19 +24,39 @@
     "keyword": "高収入"
   },
   {
-    "name": "パート勤務",
-    "keyword": "パート"
+    "name": "ドラックストア",
+    "keyword": "ドラックストア"
   },
   {
     "name": "正社員",
     "keyword": "正社員"
   },
   {
+    "name": "高時給",
+    "keyword": "高時給"
+  },
+  {
+    "name": "パート勤務",
+    "keyword": "パート"
+  },
+  {
+    "name": "急募",
+    "keyword": "急募"
+  },
+  {
+    "name": "薬局",
+    "keyword": "薬局"
+  },
+  {
     "name": "土日休み",
     "keyword": "土日休み"
   },
   {
-    "name": "研修制度あり",
+    "name": "薬剤師",
+    "keyword": "薬剤師"
+  },
+  {
+    "name": "研修制度",
     "keyword": "研修制度"
   },
   {
