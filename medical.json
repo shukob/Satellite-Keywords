@@ -1,77 +1,82 @@
 [
   {
     "name": "看護師",
-    "keyword": "看護師",
-    "location": ""
+    "keyword": "看護師"
   },
   {
     "name": "介護士",
-    "keyword": "介護士",
-    "location": ""
+    "keyword": "介護士"
   },
   {
     "name": "薬剤師",
-    "keyword": "薬剤師",
-    "location": ""
+    "keyword": "薬剤師"
   },
   {
     "name": "医療事務",
-    "keyword": "医療事務",
-    "location": ""
+    "keyword": "医療事務"
   },
   {
     "name": "医師",
-    "keyword": "医師",
-    "location": ""
+    "keyword": "医師"
   },
   {
     "name": "MR",
-    "keyword": "MR",
-    "location": ""
+    "keyword": "MR"
   },
   {
     "name": "ヘルパー",
-    "keyword": "ヘルパー",
-    "location": ""
+    "keyword": "ヘルパー"
   },
   {
     "name": "訪問介護",
-    "keyword": "訪問介護",
-    "location": ""
+    "keyword": "訪問介護"
   },
   {
     "name": "保健師",
-    "keyword": "保健師",
-    "location": ""
+    "keyword": "保健師"
   },
   {
     "name": "助産師",
-    "keyword": "助産師",
-    "location": ""
+    "keyword": "助産師"
   },
   {
     "name": "クリニック",
-    "keyword": "クリニック",
-    "location": ""
+    "keyword": "クリニック"
+  },
+  {
+    "name": "急募",
+    "keyword": "急募"
   },
   {
     "name": "ブランク歓迎",
-    "keyword": "ブランク歓迎",
-    "location": ""
+    "keyword": "ブランク歓迎"
   },
   {
     "name": "寮完備",
-    "keyword": "寮完備",
-    "location": ""
+    "keyword": "寮完備"
   },
   {
     "name": "介護施設",
-    "keyword": "介護施設",
-    "location": ""
+    "keyword": "介護施設"
   },
   {
     "name": "未経験OK",
-    "keyword": "未経験OK",
-    "location": ""
+    "keyword": "未経験OK"
+  },
+  {
+    "name": "残業なし",
+    "keyword": "残業なし"
+  },
+  {
+    "name": "短期",
+    "keyword": "短期"
+  },
+  {
+    "name": "高収入",
+    "keyword": "高収入"
+  },
+  {
+    "name": "高時給",
+    "keyword": "高時給"
   }
 ]
