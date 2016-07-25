@@ -40,15 +40,35 @@
     "keyword": "残業なし",
   },
   {
+    "name": "資格取得支援",
+    "keyword": "資格取得支援",
+  },
+  {
     "name": "東京都",
     "location": "東京都"
   },
   {
-    "name": "横浜市",
-    "location": "横浜市"
+    "name": "神奈川県",
+    "location": "神奈川県"
   },
   {
-    "name": "資格取得支援",
-    "keyword": "資格取得支援",
+    "name": "千葉県",
+    "location": "千葉県"
+  },
+  {
+    "name": "埼玉県",
+    "location": "埼玉県"
+  },
+  {
+    "name": "茨城県",
+    "location": "茨城県"
+  },
+  {
+    "name": "栃木県",
+    "location": "栃木県"
+  },
+  {
+    "name": "群馬県",
+    "location": "群馬県"
   }
 ]
